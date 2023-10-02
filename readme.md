@@ -26,7 +26,7 @@ The users can able to add any script here or add the solution of some problems i
 - [ ] fork this repository
 - [ ] git clone --depth 1 
 ```
-https://github.com/<your_github_user_name>/hacktoberfest2023.gir
+https://github.com/<your_github_user_name>/hacktoberfest2023.git
 ```
 ```
 cd Hacktoberfest2023
